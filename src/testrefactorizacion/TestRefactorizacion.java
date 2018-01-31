@@ -9,7 +9,6 @@ package testrefactorizacion;
  *
  * @author Marta
  * TAREA 02
- * PRUEBA DESDE SUBVERSION
  */
 public class TestRefactorizacion {
 
