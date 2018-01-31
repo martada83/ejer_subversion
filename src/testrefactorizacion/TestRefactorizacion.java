@@ -8,6 +8,7 @@ package testrefactorizacion;
 /**
  *
  * @author Marta
+ * TAREA 02
  */
 public class TestRefactorizacion {
 
